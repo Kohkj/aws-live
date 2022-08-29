@@ -4,7 +4,7 @@ customuser = "aws_user"
 
 custompass = "bait3273"
 
-customdb = "employee"
+customdb = "employeedb"
 
 custombucket = "kkj-employee"
 
